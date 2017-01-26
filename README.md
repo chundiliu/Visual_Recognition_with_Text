@@ -9,4 +9,4 @@ Cheers!
 
 -----
 
-[2017/01/26 Review 1](https://www.google.com "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models")
+[2017/01/26 Review 1](https://github.com/chundiliu/Visual_Recognition_with_Text/blob/master/PaperView/Review1.pdf "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models")
